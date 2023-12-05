@@ -40,4 +40,5 @@ https://github.com/Ekeany/XGBoost-From-Scratch/blob/master/XGBoost.py
 https://towardsdatascience.com/implementing-xgboost-from-scratch-6b7f2eb593c
 
 #### Naive bayes:
-**TO ADD**
+The profs implementation can be used with some tweaks:
+[Naive Bayes (Iris).pdf](Naive%20Bayes%20%28Iris%29.pdf)
