@@ -25,14 +25,14 @@ The report covers the following elements:
 Submission by Sunday 17/12/2023.  
 
 **Tasks:**
-- [ ] Feature selection
-  - [ ] With variance threshold
-  - [ ] With K-best features
-- [ ] Data preprocessing
-  - [ ] Removing rows with missing values
-  - [ ] Removing duplicate rows
-  - [ ] Removing outliers (extreme values)
-- [ ] Naive bayes implementation 
+- [X] Feature selection
+  - [X] With variance threshold
+  - [X] With K-best features
+- [X] Data preprocessing
+  - [X] Removing rows with missing values
+  - [X] Removing duplicate rows
+  - [X] Removing outliers (extreme values)
+- [X] Naive bayes implementation 
 - [ ] Extreme Gradient Boosting implementation
 
 #### Data related:
