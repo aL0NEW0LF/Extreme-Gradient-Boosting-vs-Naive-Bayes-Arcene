@@ -33,7 +33,7 @@ Submission by Sunday 17/12/2023.  
   - [X] Removing duplicate rows
   - [X] Removing outliers (extreme values)
 - [X] Naive bayes implementation 
-- [ ] Extreme Gradient Boosting implementation
+- [X] Extreme Gradient Boosting implementation
 
 #### Data related:
 https://papers.nips.cc/paper_files/paper/2004/file/5e751896e527c862bf67251a474b3819-Paper.pdf
@@ -41,7 +41,7 @@ https://papers.nips.cc/paper_files/paper/2004
 https://competitions.codalab.org/competitions/6131
 https://web.archive.org/web/20130503080434/http://www.nipsfsc.ecs.soton.ac.uk/evaluation/
 
-Feature selection:
+#### Feature selection:
 https://www.kaggle.com/code/ar2017/basics-of-feature-selection-with-python
 https://www.kaggle.com/code/bbloggsbott/feature-selection-correlation-and-p-value
 https://www.simonwenkel.com/2019/03/09/revisiting-ML-datasets-arcene.html
